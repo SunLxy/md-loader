@@ -65,3 +65,6 @@
 .w-code-layout .preview-code {
   background-color: #f6f8fa;
 }
+.w-code-layout .preview-code > pre {
+  margin: 0;
+}
